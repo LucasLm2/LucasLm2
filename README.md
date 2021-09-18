@@ -1,15 +1,5 @@
 ## Olá! Me chamo Lucas Passos e sou um Desenvolvedor FullStack
 
-Analytics:
-<div style="display: inline_block">
-	<a href="https://github.com/LucasLm2">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLm2&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLm2&layout=compact&langs_count=7&theme=github_dark"/>
-	</a>
-</div>
-
-##
-
 <table width="100%">
 	<caption>Meus Conhecimentos:</caption>
 	<tr>
@@ -39,3 +29,13 @@ Analytics:
 		</td>
 	</tr>
 </table>
+
+##
+
+Analytics:
+<div style="display: inline_block">
+	<a href="https://github.com/LucasLm2">
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasLm2&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLm2&layout=compact&langs_count=7&theme=github_dark"/>
+	</a>
+</div>
