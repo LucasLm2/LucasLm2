@@ -1,7 +1,7 @@
 ## Olá! Me chamo Lucas Passos e sou um Desenvolvedor FullStack
 
+Meus Conhecimentos:
 <table width="100%">
-	<caption>Meus Conhecimentos:</caption>
 	<tr>
 		<th>Linguagens de Programação:</th>
 		<th>Banco de Dados:</th>
