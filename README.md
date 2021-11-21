@@ -9,9 +9,10 @@ Meus Conhecimentos:
 	</tr>
 	<tr>
 		<td>
+			<img aling="center" width="50" height="48" alt="lucas-csharp" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+			<img aling="center" width="50" height="48" alt="lucas-javascript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 			<img aling="center" width="50" height="48" alt="lucas-php" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-			<img aling="center" width="50" height="48" alt="lucas-javascript" title="JavaScript"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-			<img aling="center" width="50" height="48" alt="lucas-csharp" title="C#"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+			<img aling="center" width="50" height="48" alt="lucas-javap" title="Java#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 		</td>
 		<td>
 			<img aling="center" width="50" height="48" alt="lucas-postgresql" title="PostgreSql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
@@ -19,13 +20,14 @@ Meus Conhecimentos:
 			<img aling="center" width="50" height="48" alt="lucas-mysql" title="MySql"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 		</td>
 		<td>
-			<img aling="center" width="50" height="48" alt="lucas-mysql" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-			<img aling="center" width="50" height="48" alt="lucas-mysql" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-			<img aling="center" width="50" height="48" alt="lucas-mysql" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-			<img aling="center" width="50" height="48" alt="lucas-mysql" title="CodeIgniter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
-			<img aling="center" width="50" height="48" alt="lucas-mysql" title="Symfony" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
-			<img aling="center" width="50" height="48" alt="lucas-mysql" title="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-			<img aling="center" width="50" height="48" alt="lucas-mysql" title="Composer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
+			<img aling="center" width="50" height="48" alt="lucas-dot-net" title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
+			<img aling="center" width="50" height="48" alt="lucas-html" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+			<img aling="center" width="50" height="48" alt="lucas-css3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+			<img aling="center" width="50" height="48" alt="lucas-bootstrap" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+			<img aling="center" width="50" height="48" alt="lucas-codeigniter" title="CodeIgniter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
+			<img aling="center" width="50" height="48" alt="lucas-symfony" title="Symfony" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
+			<img aling="center" width="50" height="48" alt="lucas-laravel" title="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+			<img aling="center" width="50" height="48" alt="lucas-composer" title="Composer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
 		</td>
 	</tr>
 </table>
