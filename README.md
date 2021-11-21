@@ -21,13 +21,10 @@ Meus Conhecimentos:
 		</td>
 		<td>
 			<img aling="center" width="50" height="48" alt="lucas-dot-net" title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
+			<img aling="center" width="50" height="48" alt="lucas-laravel" title="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 			<img aling="center" width="50" height="48" alt="lucas-html" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 			<img aling="center" width="50" height="48" alt="lucas-css3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 			<img aling="center" width="50" height="48" alt="lucas-bootstrap" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-			<img aling="center" width="50" height="48" alt="lucas-codeigniter" title="CodeIgniter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
-			<img aling="center" width="50" height="48" alt="lucas-symfony" title="Symfony" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
-			<img aling="center" width="50" height="48" alt="lucas-laravel" title="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-			<img aling="center" width="50" height="48" alt="lucas-composer" title="Composer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
 		</td>
 	</tr>
 </table>
