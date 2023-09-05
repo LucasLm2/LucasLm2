@@ -12,7 +12,6 @@ Meus Conhecimentos:
 			<img aling="center" width="50" height="48" alt="lucas-csharp" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 			<img aling="center" width="50" height="48" alt="lucas-javascript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 			<img aling="center" width="50" height="48" alt="lucas-php" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-			<img aling="center" width="50" height="48" alt="lucas-javap" title="Java#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 		</td>
 		<td>
 			<img aling="center" width="50" height="48" alt="lucas-postgresql" title="PostgreSql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
